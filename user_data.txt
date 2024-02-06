@@ -1,0 +1,2 @@
+Username: patpat, Password: 1234, Player_name: Patricia, Role:  , Level: 1, Magic: 13, Attack: 8, Speed: 8, Health: 15
+
